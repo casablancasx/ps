@@ -1,0 +1,7 @@
+
+7
+java:S1220""Move this file to a named package.8»ôÍÌá1
+
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(„‹§ùşÿÿÿÿ8ÅôÍÌá1
+G	java:S106"+Replace this use of System.out by a logger.(†ıûÑ8ÆôÍÌá1
+L	java:S106"+Replace this use of System.out by a logger.(Ğİ¢ÿÿÿÿÿ8—¢ĞÌá1
